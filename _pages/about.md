@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>tel: +45 2231 5241</p>
+    <p>e: khjensen@fysik.dtu.dk</p>
+    <p>p: +45 2231 5241</p>
     <p>Fysikvej, building 309, room 121</p>
     <p>DK 2800, Kgs. Lyngby, Denmark</p>
 
