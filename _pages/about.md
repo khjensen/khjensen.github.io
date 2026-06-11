@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>e: khjensen@fysik.dtu.dk</p>
     <p>p: +45 2231 5241</p>
-    <p>Fysikvej, building 309, room 121</p>
+    <p>Fysikvej, building 309-121</p>
     <p>DK 2800, Kgs. Lyngby, Denmark</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,8 +28,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Our group seeks to understand fundamental principles that govern the behavior of biological systems, using a combination of experiment and theory. A single label cannot describe this research; rather, it involves the domains of biological physics, evolutionary biology, fluid dynamics and applied mathematics.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
