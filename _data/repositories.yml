@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - khjensen
+  - jensen-lab
 
 repo_description_lines_max: 2
 
 github_repos:
+  - jensen-lab/gennis2026
+  - jensen-lab/sebastian2026
+  - jensen-lab/Universal_Shape_of_Pointed_Tips
   - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+
