@@ -344,7 +344,7 @@ scholar:
   last_name: [Jensen]
   first_name: [Kaare, H.]
 
-  style: apa
+  style: harvard
   locale: en
 
   source: /_bibliography/
