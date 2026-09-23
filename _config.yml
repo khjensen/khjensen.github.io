@@ -341,9 +341,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Jensen]
-  first_name: [Kaare, H.]
-
+  last_name: ["Jensen"]
+  first_name: ["Kaare", "Kaare H.", "K. H.", "K.", "K"]
+  
   style: apa
   locale: en
 
