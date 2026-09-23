@@ -31,7 +31,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Our group seeks to understand fundamental principles that govern the behavior of biological systems, using a combination of experiment and theory. A single label cannot describe this research; rather, it involves the domains of biological physics, evolutionary biology, fluid dynamics and applied mathematics.
+Our group seeks to understand fundamental principles that govern the behavior of biological systems, using a combination of experiment and theory. A single label cannot describe this research; rather, it involves the domains of biological physics, evolutionary biology, fluid dynamics and *light* applied mathematics.
+
+We like experiments. We keep it simple.
 
 We are curious. We get things done.
 
