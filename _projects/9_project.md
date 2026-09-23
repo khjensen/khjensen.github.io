@@ -4,6 +4,7 @@ title: project 9
 description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 4
+hidden: true
 category: fun
 ---
 
