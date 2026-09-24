@@ -1,9 +1,13 @@
-Kaare H. Jensen (PI) khjensen@fysik.dtu.dk
+Kaare H. Jensen (PI) <khjensen@fysik.dtu.dk>
 
-John Sebastian (Postdoc)
+John Sebastian (Postdoc) <johnseb@dtu.dk>
 
-Seokmin Moon (PhD student)
+Seokmin Moon (PhD student) <seomo@dtu.dk>
 
-Alexander Schødt (MSc student)
+Alexander Schødt (MSc student) <alusc@dtu.dk>
 
-Philip Jensen (MSc student)
+Sune Posselt Vergmann <s255698@student.dtu.dk> 
+
+David Mathias Klausen <s255913@student.dtu.dk>
+
+Ellinor Victoria Grete Geertsen <s255650@student.dtu.dk>
