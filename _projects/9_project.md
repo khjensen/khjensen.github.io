@@ -5,6 +5,7 @@ description: another project with an image 🎉
 img: assets/img/6.jpg
 importance: 4
 hidden: true
+nav: false
 category: fun
 ---
 
