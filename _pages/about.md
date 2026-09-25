@@ -37,7 +37,7 @@ We like experiments. We keep it simple.
 
 We are curious. We get things done.
 
-<div class="row justify-content-center mx-auto" style="max-width: 500px;">
+<div class="row justify-content-center mx-auto" style="max-width: 700px;">
     <img
       src="{{ '/assets/img/background.jpg' | relative_url }}"
       alt="Background"
