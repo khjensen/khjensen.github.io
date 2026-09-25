@@ -33,11 +33,8 @@ latest_posts:
 
 Our group seeks to understand fundamental principles that govern the behavior of biological systems, using a combination of experiment and theory. A single label cannot describe this research; rather, it involves the domains of biological physics, evolutionary biology, fluid and solid mechanics, and *light* applied mathematics.
 
-We like experiments. We keep it simple.
 
-We are curious. We get things done.
-
-<div class="row justify-content-center mx-auto" style="max-width: 700px;">
+<div class="row justify-content-center mx-auto" style="max-width: 500px;">
     <img
       src="{{ '/assets/img/background.jpg' | relative_url }}"
       alt="Background"
@@ -45,6 +42,9 @@ We are curious. We get things done.
       style="width: 100%; max-width: 220px; height: auto;"
     >
  </div>
+
+We are _curious_. We like _experiments_. We keep it _simple_. We get things done.
+
 
 <div class="row justify-content-center mx-auto" style="max-width: 500px;">
   <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
