@@ -14,7 +14,7 @@ profile:
     <p>Technical University of Denmark</p>
     <p>Fysikvej, building 309-121</p>
     <p>DK 2800, Kgs. Lyngby, Denmark</p>
-    <p>e: <khjensen@fysik.dtu.dk></p>
+    <p>e: <a href="mailto:khjensen@fysik.dtu.dk">khjensen@fysik.dtu.dk</a></p>
     <p>p: +45 2231 5241</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
