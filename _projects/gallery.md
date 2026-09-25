@@ -4,7 +4,7 @@ title: Photo gallery
 description: Photo gallery
 img: assets/img/background.jpg
 importance: 1
-category: arbejde
+category: work
 ---
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
