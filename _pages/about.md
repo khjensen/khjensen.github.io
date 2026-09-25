@@ -37,7 +37,6 @@ We like experiments. We keep it simple.
 
 We are curious. We get things done.
 
-```html
 <div class="row justify-content-center mx-auto" style="max-width: 760px;">
   <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
     <img
@@ -70,7 +69,7 @@ We are curious. We get things done.
 <div class="caption">
   Image credits: Kaare H. Jensen, Technical University of Denmark
 </div>
-```
+
 
 <div class="caption">
   Image credits: Kaare H. Jensen - Technical University of Denmark
