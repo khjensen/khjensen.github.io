@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New website online
+Version 0.1 of new website online
