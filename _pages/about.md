@@ -37,7 +37,7 @@ We like experiments. We keep it simple.
 
 We are curious. We get things done.
 
-<div class="row justify-content-center mx-auto" style="max-width: 760px;">
+<div class="row justify-content-center mx-auto" style="max-width: 500px;">
   <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
     <img
       src="{{ '/assets/img/Buckling1.gif' | relative_url }}"
