@@ -37,17 +37,41 @@ We like experiments. We keep it simple.
 
 We are curious. We get things done.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Buckling1.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Buckling2.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Buckling3.gif" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+```html
+<div class="row justify-content-center mx-auto" style="max-width: 760px;">
+  <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
+    <img
+      src="{{ '/assets/img/Buckling1.gif' | relative_url }}"
+      alt="Buckling experiment 1"
+      class="rounded"
+      style="width: 100%; max-width: 220px; height: auto;"
+    >
+  </div>
+
+  <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
+    <img
+      src="{{ '/assets/img/Buckling2.gif' | relative_url }}"
+      alt="Buckling experiment 2"
+      class="rounded"
+      style="width: 100%; max-width: 220px; height: auto;"
+    >
+  </div>
+
+  <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
+    <img
+      src="{{ '/assets/img/Buckling3.gif' | relative_url }}"
+      alt="Buckling experiment 3"
+      class="rounded"
+      style="width: 100%; max-width: 220px; height: auto;"
+    >
+  </div>
 </div>
+
+<div class="caption">
+  Image credits: Kaare H. Jensen, Technical University of Denmark
+</div>
+```
+
 <div class="caption">
   Image credits: Kaare H. Jensen - Technical University of Denmark
 </div>
