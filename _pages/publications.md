@@ -6,7 +6,6 @@ description: These publications are provided to the academic community for use i
 nav_order: 2
 nav: true
 ---
-[Web of Science](https://www.webofscience.com/wos/author/record/G-9433-2014), [ORCID](https://orcid.org/0000-0003-0787-5283), [Google Scholar](https://scholar.google.com/citations?user=mnGfy0YAAAAJ&hl=en)
 
 <!-- _pages/publications.md -->
 
