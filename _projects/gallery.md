@@ -9,7 +9,7 @@ category: DTU
 
 <div class="row row-cols-1 row-cols-md-3 g-4">
   {% for file in site.static_files %}
-    {% if file.path contains 'assets/img/dit-projekt-navn' %}
+    {% if file.path contains 'assets/img' %}
       {% if file.extname == '.jpg' or file.extname == '.jpeg' or file.extname == '.png' or file.extname == '.gif' %}
         <div class="col">
           <div class="card h-100 z-depth-1 rounded">
