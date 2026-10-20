@@ -17,12 +17,11 @@ Please get in touch if you are interested in discussing scientific applications 
 
 Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
 
-
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
+    <img
+      src="{{ '/assets/img/torusmargo.gif' | relative_url }}"
+      alt="Buckling experiment 2"
+      class="rounded"
+      style="width: 100%; max-width: 500px; height: auto;"
+    >
   </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
