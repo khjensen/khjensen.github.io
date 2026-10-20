@@ -3,7 +3,7 @@ layout: page
 title: Photo gallery
 description: Photo gallery. Copyright Kaare H. Jensen, Technical University of Denmark
 img: assets/img/background.jpg
-importance: 1
+importance: 100
 category: DTU
 ---
 <div class="row row-cols-1 row-cols-md-3 g-4">
