@@ -21,7 +21,7 @@ Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
       src="{{ '/assets/img/torusmargo.gif' | relative_url }}"
       alt="Buckling experiment 2"
       class="rounded"
-      style="width: 100%; max-width: 500px; height: auto;"
+      style="width: 100%; max-width: 1500px; height: auto;"
     >
   </div>
 
