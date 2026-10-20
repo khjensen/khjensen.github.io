@@ -2,8 +2,7 @@
 layout: page
 title: Bioinspired flow control
 description: Plant-inspired devices for efficient hydroelastic regulation
-img: assets/img/background.jpg
-importance: 1
+importance: 2
 category: DTU
 ---
 
