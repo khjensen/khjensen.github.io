@@ -16,3 +16,13 @@ Our first device is targeted at peristaltic pumps, a technology where rollers co
 Please get in touch if you are interested in discussing scientific applications of the torus margo technology
 
 Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
+
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
