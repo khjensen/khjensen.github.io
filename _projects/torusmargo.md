@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bioinspired flow control
-description: Plant-inspired devices for efficient hydroelastic regulation
+title: Elastohydrodynamics
+description: Bioinspired devices for flow control
 importance: 2
 category: DTU
 ---
