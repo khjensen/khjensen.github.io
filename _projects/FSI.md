@@ -12,14 +12,9 @@ The liquid flow regulation systems developed by the Soft Matter Biophysics team 
 
 Our first device is targeted at peristaltic pumps, a technology where rollers compress a tube as they rotate, thus pushing the liquid through the tube. This inexpensive and reliable pumping technology is widely used across a myriad of scientific disciplines. A significant pain of peristaltic pumps, however, is the pulsating output flow. Inspired by plants, we have developed a new way of removing the ripples.
 
-Please get in touch if you are interested in discussing scientific applications of the torus margo technology
-
-Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
-
   <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
     <img
       src="{{ '/assets/img/torusmargo.gif' | relative_url }}"
-      alt="Buckling experiment 2"
       class="rounded"
       style="width: 100%; max-width: 1500px; height: auto;"
     >
