@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elastohydrodynamics
+title: Fluid structure interactions
 description: Bioinspired devices for flow control
 importance: 2
 category: DTU
