@@ -22,4 +22,17 @@ Our first device is targeted at peristaltic pumps, a technology where rollers co
 
 {% cite martinezcalvo2024memristor %}
 
+div class="hide-years">
 {% bibliography --cited %}
+</div>
+
+<style>
+  .hide-years .year {
+    display: none !important;
+  }
+  /* Optional: Adjust spacing if the gaps look too large */
+  .hide-years ol.bibliography {
+    margin-top: 0 !important;
+    margin-bottom: 1rem !important;
+  }
+</style>
