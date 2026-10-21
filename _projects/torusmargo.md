@@ -25,6 +25,4 @@ Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
     >
   </div>
 
-{% bibliography -f papers -q @*[key=martinezcalvo2024memristor] %}
-
-  {% cite martinezcalvo2024memristor }
+{% cite martinezcalvo2024memristor %}
