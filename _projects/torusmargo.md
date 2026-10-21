@@ -25,6 +25,6 @@ Contact: Kaare H. Jensen, khjensen@fysik.dtu.dk, +45 2231 5241
     >
   </div>
 
-{% bibliography -f papers -q @*[key=martinezcalvo2024memristor|paludan2024knots] %}
+{% bibliography -f papers -q @*[key=martinezcalvo2024memristor] %}
 
-  {% cite martinezcalvo2024memristor paludan2024knots paludan2023autoregulation bork2023astrocyte biviano2022peristaltic park2021passive christensen2020slit louf2020softpores park2018softvalve %}
+  {% cite martinezcalvo2024memristor }
