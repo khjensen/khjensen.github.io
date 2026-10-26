@@ -41,7 +41,7 @@ We are _curious_. We like _experiments_. We keep it _simple_. We get things done
       src="{{ '/assets/img/Buckling1.gif' | relative_url }}"
       alt="Buckling experiment 1"
       class="rounded"
-      style="width: 100%; max-width: 220px; height: auto;"
+      style="width: 100%; max-width: 300px; height: auto;"
     >
   </div>
 
@@ -50,7 +50,7 @@ We are _curious_. We like _experiments_. We keep it _simple_. We get things done
       src="{{ '/assets/img/Buckling2.gif' | relative_url }}"
       alt="Buckling experiment 2"
       class="rounded"
-      style="width: 100%; max-width: 220px; height: auto;"
+      style="width: 100%; max-width: 300px; height: auto;"
     >
   </div>
 
@@ -59,16 +59,7 @@ We are _curious_. We like _experiments_. We keep it _simple_. We get things done
       src="{{ '/assets/img/Buckling3.gif' | relative_url }}"
       alt="Buckling experiment 3"
       class="rounded"
-      style="width: 100%; max-width: 220px; height: auto;"
+      style="width: 100%; max-width: 300px; height: auto;"
     >
   </div>
 </div>
-
-<div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
-    <img
-      src="{{ '/assets/img/artwork/Stinger2.tif' | relative_url }}"
-      class="rounded"
-      style="width: 100%; max-width: 660px; height: auto;"
-    >
-  </div>
-
