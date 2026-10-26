@@ -66,7 +66,7 @@ We are _curious_. We like _experiments_. We keep it _simple_. We get things done
 
 <div class="col-12 col-sm-4 mt-3 mt-sm-0 text-center">
     <img
-      src="{{ '/assets/img/artwork/Stinger2.gif' | relative_url }}"
+      src="{{ '/assets/img/artwork/Stinger2.tif' | relative_url }}"
       class="rounded"
       style="width: 100%; max-width: 660px; height: auto;"
     >
