@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cutting and stinging
-description: Soft cutting mechanics - from natural spikes to paper cuts
+title: Solids
+description: 
 importance: 3
 category: DTU
 ---
