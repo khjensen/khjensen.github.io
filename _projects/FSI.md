@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Fluid structure interactions
-description: Bioinspired devices for flow control
+title: Fluids
+description:
 importance: 2
 category: DTU
 ---
