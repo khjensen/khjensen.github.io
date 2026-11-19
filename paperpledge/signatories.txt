@@ -1,2 +1,0 @@
-name	institution	country	date_signed
-Kaare H. Jensen	DTU TEch	Denmark	2026-11-18
