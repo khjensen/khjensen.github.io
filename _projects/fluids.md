@@ -2,7 +2,7 @@
 layout: page
 title: Fluids
 description: 
-img: 
+img: Fluid mechanics
 importance: 100
 category: DTU
 ---
