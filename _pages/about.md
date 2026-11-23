@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: <a href='http://fysik.dtu.dk'>Department of Physics, Technical University of Denmark</a>.
 
