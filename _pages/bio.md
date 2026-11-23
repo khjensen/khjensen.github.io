@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Bio
+title: bio
+permalink: /bio/
 nav: true
 nav_order: 4
 ---
