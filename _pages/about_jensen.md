@@ -40,6 +40,19 @@ Ellinor Victoria Grete Geertsen <s255650@student.dtu.dk>
   </div>
 </div>
 
-## Alumni
+
+#### Alumni
+[Anneline Christensen](https://www.linkedin.com/in/anneline-hegelund-christensen-0a6300301/)
+
+[Magnus Paludan](https://www.linkedin.com/in/magnus-paludan-67b1a375/)
+
+[Sif Arnbjerg-Nielsen](https://www.linkedin.com/in/sif-fink-arnbjerg-nielsen/)
+
+[Sabrina Gennis](https://www.linkedin.com/in/sabrina-gennis/)
+
+[John Sebastian](https://www.linkedin.com/in/john-sebastian/)
+
+[Katrine Haaning](https://www.linkedin.com/in/katrinehaaning/)
+
 
 
