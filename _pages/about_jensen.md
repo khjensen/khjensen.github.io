@@ -24,6 +24,8 @@
   </div>
 </div>
 
+#### Group members
+
 Kaare H. Jensen (PI) <khjensen@fysik.dtu.dk>
 
 John Sebastian (Postdoc) <johnseb@dtu.dk>
@@ -39,9 +41,6 @@ Sune Posselt Vergmann <s255698@student.dtu.dk>
 David Mathias Klausen <s255913@student.dtu.dk>
 
 Ellinor Victoria Grete Geertsen <s255650@student.dtu.dk>
-
-
-
 
 #### Alumni
 [Anneline Christensen](https://www.linkedin.com/in/anneline-hegelund-christensen-0a6300301/)
